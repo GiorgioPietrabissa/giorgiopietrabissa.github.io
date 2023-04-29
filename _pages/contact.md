@@ -1,5 +1,5 @@
 ---
-Title: "Get in touch!"
+Title: ""
 permalink: /contact/
 author_profile: true
 ---
