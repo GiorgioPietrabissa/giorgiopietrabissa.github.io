@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-You can find my CV [here](https://giorgiopietrabissa.github.io/files/CV.pdf)
+You can find my CV [here](https://www.dropbox.com/s/e5ssri49gadhx8b/CV.pdf?dl=0).
