@@ -4,7 +4,9 @@ permalink: /contact/
 author_profile: true
 ---
 
-giorgio.pietrabissa@cemfi.edu.es
+**Get in touch**:
+
+[giorgio.pietrabissa@cemfi.edu.es](mailto:giorgio.pietrabissa@cemfi.edu.es)
 
 CEMFI
 Calle Casado del Alisal, 5
