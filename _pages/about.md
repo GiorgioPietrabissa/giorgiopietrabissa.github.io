@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 Hi, welcome to my website.
-======
-I'm a 5th year PhD student at [**Cemfi**](https://www.cemfi.es/), and my research focuses on urban economics.
 
-I'm interested in understanding the drivers of _where_ people choose to live, and _how_ our interactions shape the spatial distribution of economic activity, using quantitative tools from IO and trade. In short, I like maps.
+I'm a 5th year PhD student at [**Cemfi**](https://www.cemfi.es/), and my research focuses on urban and spatial economics.
+
+My research explores the factors influencing residential choices, spatial inequalities and the impact of our interactions on economic activity, utilizing quantitative tools from trade and IO.
+
+I have a passion for maps - they allow us to bring complex data to life in a beautiful way.
