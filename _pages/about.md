@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a PhD candidate in economics from [**Cemfi**](https://www.cemfi.es/).
+I’m a PhD candidate in economics from [**Cemfi**](https://www.cemfi.es/). You can find my CV [here](https://giorgiopietrabissa.github.io/files/CV.pdf).
 
 I will be available for interviews on the **2023-2024 Academic Job Market**.
 
@@ -17,7 +17,9 @@ I am an economist with research interests in urban, international and labor econ
 In my research I study how the interplay of multiple markets within cities determines spatial inequalities and the distribution of economic activity.
 
 **Fields**:
-
 * Urban and Spatial Economics
 * International Economics
 * Labor Economics
+
+**Job Market Paper**: School Access and City Structure
+*Coming soon!*
