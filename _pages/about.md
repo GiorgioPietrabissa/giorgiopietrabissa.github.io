@@ -16,10 +16,10 @@ I am an economist with research interests in urban, international and labor econ
 
 In my research I study how the interplay of multiple markets within cities determines spatial inequalities and the distribution of economic activity.
 
+**Job Market Paper**: School Access and City Structure
+
 **Fields**:
+
 * Urban and Spatial Economics
 * International Economics
 * Labor Economics
-
-**Job Market Paper**: School Access and City Structure
-*Coming soon!*
