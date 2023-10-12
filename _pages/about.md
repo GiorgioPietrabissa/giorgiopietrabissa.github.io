@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi, welcome to my website.
+I’m a PhD candidate in economics from [**Cemfi**](https://www.cemfi.es/).
 
-I'm a 5th year PhD student at [**Cemfi**](https://www.cemfi.es/), and my research focuses on urban and spatial economics.
+I will be available for interviews on the **2023-2024 Academic Job Market**.
+
+I am an economist with research interests in urban, interantional and labor economics.
 
 My research explores the factors influencing residential choices, spatial inequalities and the impact of our interactions on economic activity, utilizing quantitative tools from trade and IO.
 
