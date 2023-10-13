@@ -16,7 +16,7 @@ I am an economist with research interests in urban, international and labor econ
 
 In my research I study how the interplay of multiple markets within cities determines spatial inequalities and the distribution of economic activity.
 
-**Job Market Paper**: School Access and City Structure
+**Job Market Paper**: [School Access and City Structure](https://giorgiopietrabissa.github.io/files/school_sorting.pdf)
 
 **References**:   
 [Diego Puga](https://diegopuga.org) - [Paula Bustos](https://www.cemfi.es/~bustos/) - [Milena Almagro](https://www.milena-almagro.com/) - [Tom Zohar](https://tomzohar.com/)
