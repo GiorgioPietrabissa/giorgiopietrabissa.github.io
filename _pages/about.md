@@ -18,8 +18,10 @@ In my research I study how the interplay of multiple markets within cities deter
 
 **Job Market Paper**: School Access and City Structure
 
-**Fields**:
-
-* Urban and Spatial Economics
+**Fields**:   
 * International Economics
 * Labor Economics
+* Urban and Spatial Economics
+
+**References**:
+[Diego Puga](https://diegopuga.org) - [Paula Bustos](https://www.cemfi.es/~bustos/) - [Milena Almagro](https://www.milena-almagro.com/) - [Tom Zohar](https://tomzohar.com/)
