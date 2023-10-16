@@ -24,6 +24,6 @@ In my research I study how the interplay of multiple markets within cities deter
 <a href="https://diegopuga.org" target="_blank">Diego Puga</a> - <a href="https://www.cemfi.es/~bustos/" target="_blank">Paula Bustos</a> - <a href="https://www.milena-almagro.com/" target="_blank">Milena Almagro</a> -  <a href="https://tomzohar.com/" target="_blank">Tom Zohar</a>
 
 **Fields**:   
-* International Economics
-* Labor Economics
+* International Trade
 * Urban and Spatial Economics
+* Labor Economics
