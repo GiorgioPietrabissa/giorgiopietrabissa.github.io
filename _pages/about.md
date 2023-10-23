@@ -18,7 +18,7 @@ In my research, I study how public policies and the interplay of multiple market
 
 ---
 
-**Job Market Paper**: <a href="https://giorgiopietrabissa.github.io/files/school_sorting.pdf" target="_blank">School Access and City Structure</a>
+**Job Market Paper**: <a href="https://giorgiopietrabissa.github.io/files/school_sorting.pdf" target="_blank">School Access and City Structure</a>  
 *Draft coming soon!*
 
 **References**:   
