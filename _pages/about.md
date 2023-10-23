@@ -18,7 +18,8 @@ In my research, I study how public policies and the interplay of multiple market
 
 ---
 
-**Job Market Paper**: <a href="https://giorgiopietrabissa.github.io/files/school_sorting.pdf" target="_blank">School Access and City Structure</a> *Draft coming soon!*
+**Job Market Paper**: <a href="https://giorgiopietrabissa.github.io/files/school_sorting.pdf" target="_blank">School Access and City Structure</a>
+*Draft coming soon!*
 
 **References**:   
 <a href="https://diegopuga.org" target="_blank">Diego Puga</a> - <a href="https://www.cemfi.es/~bustos/" target="_blank">Paula Bustos</a> - <a href="https://www.milena-almagro.com/" target="_blank">Milena Almagro</a> -  <a href="https://tomzohar.com/" target="_blank">Tom Zohar</a>
