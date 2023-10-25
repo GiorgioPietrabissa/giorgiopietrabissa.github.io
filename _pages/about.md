@@ -23,8 +23,3 @@ In my research, I study how public policies and the interplay of multiple market
 
 **References**:   
 <a href="https://diegopuga.org" target="_blank">Diego Puga</a> - <a href="https://www.cemfi.es/~bustos/" target="_blank">Paula Bustos</a> - <a href="https://www.milena-almagro.com/" target="_blank">Milena Almagro</a> -  <a href="https://tomzohar.com/" target="_blank">Tom Zohar</a>
-
-**Fields**:   
-* International Trade
-* Urban and Spatial Economics
-* Labor Economics
