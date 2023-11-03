@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 
-# <span style="color:#9EC5AB"> Work in progress </span>
+# <span style="color:#CF5C36"> Work in progress </span>
 
 ## <a href="https://giorgiopietrabissa.github.io/files/school_sorting.pdf" target="_blank">School Access and City Structure</a>
 *Job Market Paper* - Draft Coming soon!
