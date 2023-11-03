@@ -60,7 +60,7 @@ $code-background-color-dark : #fff;
 $text-color                 : #fff;
 $border-color               : #fff;
 
-$primary-color              : #FFCA45;
+$primary-color              : #FFD670;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
@@ -90,8 +90,8 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : #FFCA45;
-$link-color-hover           : #9EC5AB;
+$link-color                 : #FFD670;
+$link-color-hover           : mix(#fff, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
 $masthead-link-color        : $primary-color;
 $masthead-link-color-hover  : mix(#fff, $primary-color, 25%);
