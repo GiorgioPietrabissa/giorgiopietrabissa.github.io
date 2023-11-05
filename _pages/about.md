@@ -14,7 +14,7 @@ I will be available for interviews on the **2023-2024 Academic Job Market**.
 
 I am an economist with research interests in international, urban and labor economics, and a specific focus on inequality. I use quantitative tools from trade and empirical IO.
 
-In my research, I study how public policies and the interplay of multiple markets determine spatial inequalities and the distribution of economic activity.
+In my research, I study how public policies and their interplay with multiple markets determine spatial inequalities and the distribution of economic activity.
 
 ---
 
