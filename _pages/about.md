@@ -18,7 +18,7 @@ In my research, I study how public policies and their interplay with multiple ma
 
 ---
 
-**Job Market Paper**: School Access and City Structure
+**Job Market Paper**: *School Access and City Structure*  
 Download it <a href="https://giorgiopietrabissa.github.io/files/school_sorting.pdf" target="_blank">here</a> 
 
 **References**:   
