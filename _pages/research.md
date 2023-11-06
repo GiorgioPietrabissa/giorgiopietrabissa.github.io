@@ -6,8 +6,8 @@ author_profile: true
 
 # <span style="color:#CF5C36"> Work in progress </span>
 
-## <a href="https://giorgiopietrabissa.github.io/files/school_sorting.pdf" target="_blank">School Access and City Structure</a>
-*Job Market Paper* - Draft Coming soon!
+## School Access and City Structure
+*Job Market Paper* - Download it <a href="https://giorgiopietrabissa.github.io/files/school_sorting.pdf" target="_blank">here</a>
 
 <span style="font-size:15px">
     This paper quantifies the effect of schools on the internal structure of cities. I explore two new channels: the indirect consequences schools have on childless households and the interactions schools establish with the labor market. Using data from Madrid, I first document extensive spatial sorting based on parenthood and link it to the need of parents to access both schools and workplaces. Then, I develop a general equilibrium quantitative spatial model incorporating school choice. The framework allows schools to affect the labor market via their impact on households' residential choices and for school quality to respond endogenously through peer effects. The empirical analysis relies on data on the quasi-universe of school applications, with which I estimate school preferences and quantify school access. To separately identify residential preferences from the endogeneity of school access, I resort to exogenous variation from the city's historical expansion. Counterfactual simulations reveal that accounting for childless households reduces the impact that schools generate on house prices and the distribution of workers by 40%. Moreover, peer effects amplify by almost three times the attraction to central locations that the labor market exerts on the distribution of students. These cross-market interactions bear significant implications for policies that increase school choice and for the city-wide consequences of teleworking.
