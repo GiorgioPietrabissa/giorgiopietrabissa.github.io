@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a PhD candidate in economics from <a href="https://www.cemfi.es/" target="_blank">CEMFI</a>. You can find my CV <a href="https://giorgiopietrabissa.github.io/files/CV.pdf" target="_blank">here</a>.
+I’m a PhD candidate in economics at <a href="https://www.cemfi.es/" target="_blank">CEMFI</a>. You can find my CV <a href="https://giorgiopietrabissa.github.io/files/CV.pdf" target="_blank">here</a>.
 
 I will be available for interviews on the **2023-2024 Academic Job Market**.
 
