@@ -3,14 +3,13 @@ title: ""
 permalink: /research/
 author_profile: true
 ---
+<style>body {text-align: justify}</style>
 
 ## School Access and City Structure
 *Job Market Paper* - Download it <a href="https://giorgiopietrabissa.github.io/files/school_sorting.pdf" target="_blank">here</a>
 
 <span style="font-size:15px">
-  <div style='text-align: justify;'>
-  This paper quantifies the effect of schools on the internal structure of cities by developing a quantitative spatial model that incorporates school choice. Parents select their residence by balancing access to schools and jobs, choose a school considering its endogenous peer composition, and compete with childless households for houses and jobs. For estimation, I leverage data from Madrid on school admissions, workers' commuting trips by skill, and the location, composition, and education of every household in the city. Schools influence parental residential and job choices, but non-parents reduce by 40% the impact of schools on house prices and the distribution of workers by moving to locations less favored by parents. Commuting costs concentrate skilled households in productive areas, and as parents tend to enroll children in schools close to their homes, peer effects in school quality triple the impact of jobs on the distribution of students. The equilibrium interactions between schools and the labor market significantly affect the outcome of policies increasing school choice and the city-wide consequences of work-from-home.
-  </div>
+This paper quantifies the effect of schools on the internal structure of cities by developing a quantitative spatial model that incorporates school choice. Parents select their residence by balancing access to schools and jobs, choose a school considering its endogenous peer composition, and compete with childless households for houses and jobs. For estimation, I leverage data from Madrid on school admissions, workers' commuting trips by skill, and the location, composition, and education of every household in the city. Schools influence parental residential and job choices, but non-parents reduce by 40% the impact of schools on house prices and the distribution of workers by moving to locations less favored by parents. Commuting costs concentrate skilled households in productive areas, and as parents tend to enroll children in schools close to their homes, peer effects in school quality triple the impact of jobs on the distribution of students. The equilibrium interactions between schools and the labor market significantly affect the outcome of policies increasing school choice and the city-wide consequences of work-from-home.
 </span>
 
 # <span style="color:#CF5C36"> Work in progress </span>
