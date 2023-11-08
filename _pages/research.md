@@ -14,7 +14,7 @@ author_profile: true
 </div>
 
   
-# <span style="color:#CF5C36"> Work in progress </span>
+## <span style="color:#CF5C36"> Work in progress </span>
 
 ## The Welfare Effects of Public Housing: Evidence from the Netherlands
 *Joint with <a href="https://www.milena-almagro.com/" target="_blank">Milena Almagro</a> & <a href="https://www.urbaneconomics.nl/" target="_blank">Hans Koster</a>*
