@@ -12,7 +12,7 @@ I’m a PhD candidate in economics at <a href="https://www.cemfi.es/" target="_b
 
 I will be available for interviews on the **2023-2024 Academic Job Market**.
 
-I am an economist with research interests in international, urban and labor economics, and a specific focus on inequality. I use quantitative tools from trade and empirical IO.
+I am an economist with research interests in urban, international and labor economics, and a specific focus on inequality. I use quantitative tools from trade and empirical IO.
 
 In my research, I study how public policies and their interplay with multiple markets determine spatial inequalities and the distribution of economic activity.
 
