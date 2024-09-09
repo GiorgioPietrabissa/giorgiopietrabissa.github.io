@@ -83,7 +83,7 @@ author:
   name             : "Giorgio Pietrabissa"
   avatar           : "profile.jpg"
   bio              : "Assistant Professor"
-  employer         : "<a href=https://www.lse.ac.uk/Geography-and-Environment>LSE Geography</a>"
+  employer         : "[LSE Geography](href=https://www.lse.ac.uk/Geography-and-Environment)"
   location         :
   pubmed           : 
   googlescholar    : 
