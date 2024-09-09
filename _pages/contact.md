@@ -6,10 +6,10 @@ author_profile: true
 
 Get in touch!
 
-[giorgio.pietrabissa@cemfi.edu.es](mailto:giorgio.pietrabissa@cemfi.edu.es)
+[g.pietrabissa@lse.ac.uk](mailto:g.pietrabissa@lse.ac.uk)
 
 <address>
-  CEMFI<br /> Calle Casado del Alisal, 5 <br /> 28014 Madrid, Spain
+  LSE <br /> Department of Geography and Environment, London School of Economics <br /> Houghton St, London, England, WC2A 2AE
 </address>
 
 
