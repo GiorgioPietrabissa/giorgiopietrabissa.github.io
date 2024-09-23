@@ -14,6 +14,4 @@ I’m an Assistant Professor at the **Department of Geography and Environment** 
 
 I received my PhD from CEMFI in 2024. You can find my CV <a href="https://giorgiopietrabissa.github.io/files/CV.pdf" target="_blank">here</a>.
 
-I am an economist with research interests in urban, international, and labor economics and a specific focus on inequality. I use quantitative tools from trade and empirical IO.
-
-In my research, I study how public policies impact multiple markets and determine spatial inequalities and the distribution of economic activity.
+I am an economist with research interests in urban, international and public economics, with a specific focus on issues related to inequality. In my research, I use quantitative empirical tools from IO and trade, to understand how public policies affect the functioning of markets across space and shape spatial inequalities.
