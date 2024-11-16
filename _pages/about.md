@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I’m an Assistant Professor at the **Department of Geography and Environment** at the **LSE**. 
+I’m an Assistant Professor at the **Department of Geography and Environment** at the **LSE**. I am also a CEP associate.
 
 I received my PhD from CEMFI in 2024. You can find my CV <a href="https://giorgiopietrabissa.github.io/files/CV.pdf" target="_blank">here</a>.
 
