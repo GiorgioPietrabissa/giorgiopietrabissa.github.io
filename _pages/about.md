@@ -11,7 +11,8 @@ redirect_from:
 
 
 I’m an Assistant Professor at the **Department of Geography and Environment** at the **LSE**. \
-I am also a CEP associate and a fellow of the Fondazione Rodolfo Debenedetti.
+I am also an associate at the Center for Economic Performance (CEP) and a fellow of the Fondazione Rodolfo Debenedetti.\
+I co-organize the Online Spatial and Urban Seminar (<a href="https://osus.info/">OSUS</a>).
 
 I received my PhD from CEMFI in 2024. You can find my CV <a href="https://giorgiopietrabissa.github.io/files/CV.pdf" target="_blank">here</a>.
 
