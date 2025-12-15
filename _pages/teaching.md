@@ -5,7 +5,7 @@ excerpt: "Theaching page"
 author_profile: true
 ---
 
-Lecturer:
+Lecturer at LSE:
 * **Real Estate Investment (<a href="https://www.lse.ac.uk/resources/calendar2025-2026/courseGuides/GY/2025_GY472.htm">GY472</a>)** - 2025-
 * **The Economics of Cities (<a href="https://www.lse.ac.uk/resources/calendar2025-2026/courseGuides/GY/2025_GY210.htm">GY210</a>)** - 2026-
 
