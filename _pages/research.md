@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## School Access and City Structure
-*Job Market Paper* - Download it <a href="https://giorgiopietrabissa.github.io/files/school_sorting.pdf" target="_blank">here</a>
+*Big rework in progress!*
 
 <div align='justify'>
   <span style="font-size:15px">
@@ -21,6 +21,5 @@ author_profile: true
 
 <div align='justify'>
 <span style="font-size:15px">
-Governments worldwide invest significant amounts of money to provide affordable housing, yet little is known about the value that this provides to eligible individuals or society at large. In this project, we assess the welfare and distributional effects of subsidized rent-controlled public housing targeting low-income households. To do so, we set up a dynamic spatial equilibrium framework accounting for tenure choice, wait times, housing prices, and local externalities of public housing on privately owned housing. For estimation, we leverage a big construction program that took place in the Netherlands in the period 1995-2005. Then, using microdata from the Netherlands, we estimate how eligible low-income households trade off the option of living in public housing against market-rate units. Preliminary evidence suggests that affordable housing can induce substantial spillovers on the private market, beyond direct local externalities, as demand connects the two segments of the market. This relation implies unexplored distributional consequences of the provision of public housing.
 </span>
 </div>
