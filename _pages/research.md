@@ -16,7 +16,7 @@ author_profile: true
 
 # <span style="color:#CF5C36"> Work in progress </span>
 
-## The Welfare Effects of Public Housing
+## Waiting lists and Prices: Public Housing Allocation and Private Market Spillovers
 *Joint with <a href="https://www.milena-almagro.com/" target="_blank">Milena Almagro</a> & <a href="https://www.urbaneconomics.nl/" target="_blank">Hans Koster</a>*
 
 <div align='justify'>
