@@ -12,4 +12,4 @@
 ### TA in graduate courses at CEMFI
 
 - **Mathematics**, fall 2022
-- **International Trade**, spring 2021, online only
+- **International Trade**, spring 2021
