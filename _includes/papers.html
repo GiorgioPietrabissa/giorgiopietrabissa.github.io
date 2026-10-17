@@ -1,0 +1,40 @@
+{%- for group in site.data.papers %}
+<h2 class="section-title">{{ group.group }}</h2>
+
+{%- for paper in group.papers %}
+{%- assign id = paper.title | slugify | prepend: "abstract-" %}
+<article class="paper">
+  <h3 class="paper-title">{{ paper.title | smartify }}</h3>
+
+  {%- if paper.coauthors %}
+  <p class="paper-coauthors">with
+    {%- for person in paper.coauthors %}
+      {%- if forloop.last and forloop.length > 1 %} and{% elsif forloop.first == false %},{% endif %}
+      {% if person.url %}<a href="{{ person.url }}">{{ person.name }}</a>{% else %}{{ person.name }}{% endif %}
+    {%- endfor %}
+  </p>
+  {%- endif %}
+
+  {%- if paper.status %}
+  <p class="paper-status">{{ paper.status | smartify }}</p>
+  {%- endif %}
+
+  {%- if paper.abstract or paper.links %}
+  <p class="paper-links">
+    {%- if paper.abstract %}
+    <button type="button" class="button abstract-toggle" aria-expanded="false" aria-controls="{{ id }}">abstract</button>
+    {%- endif %}
+    {%- for link in paper.links %}
+    <a class="button" href="{{ link.url | relative_url }}">{{ link.label }}</a>
+    {%- endfor %}
+  </p>
+  {%- endif %}
+
+  {%- if paper.abstract %}
+  <div class="abstract" id="{{ id }}">
+    <p>{{ paper.abstract | smartify }}</p>
+  </div>
+  {%- endif %}
+</article>
+{%- endfor %}
+{%- endfor %}

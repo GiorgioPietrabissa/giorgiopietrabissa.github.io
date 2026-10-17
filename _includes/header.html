@@ -1,0 +1,13 @@
+<header class="site-header">
+  {% if page.url == "/" %}<h1 class="site-name">{% else %}<p class="site-name">{% endif %}
+    <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
+  {% if page.url == "/" %}</h1>{% else %}</p>{% endif %}
+
+  <nav aria-label="Main">
+    <ul class="site-nav">
+      {%- for item in site.data.navigation %}
+      <li><a href="{{ item.url | relative_url }}"{% if item.new_tab %} target="_blank" rel="noopener"{% endif %}>{{ item.title }}</a></li>
+      {%- endfor %}
+    </ul>
+  </nav>
+</header>

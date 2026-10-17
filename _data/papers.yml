@@ -1,0 +1,52 @@
+# Each group becomes a heading in the Research section, in this order.
+# Only "title" is required. Leave out any field a paper doesn't have.
+#
+#   - title: Paper title
+#     coauthors:
+#       - name: Coauthor Name
+#         url: https://their-website.com     (optional)
+#     status: R&R, Journal Name
+#     abstract: >-
+#       Abstract text, on as many lines as you like.
+#     links:
+#       - label: pdf
+#         url: /files/paper.pdf
+#       - label: slides
+#         url: /files/slides.pdf
+
+- group: Working papers
+  papers:
+    - title: School access and city structure
+      status: New version of my JMP!
+      abstract: >-
+        The location choices of households with children connect housing, labor, and school markets. 
+        I study how school catchment areas affect location choices, welfare, and city structure. 
+        I estimate a quantitative spatial model of the three markets for Madrid, and use a decomposition of market access to show that the policy binds most in the center, where schools are densest. 
+        Compared with free choice, catchment areas shorten school trips by about 40% but lower parents' welfare by about 7.5%, via lost schooling options. 
+        Parents suburbanize, and the city becomes more segregated and marginally more productive, with gains falling short of parents' losses.
+      links:
+        - label: pdf
+          url: /files/school_access.pdf
+- group: Work in progress
+  papers:
+    - title: "Waiting lists and prices: public housing allocation and private market spillovers"
+      status: New draft coming soon!
+      coauthors:
+        - name: Milena Almagro
+          url: https://www.milena-almagro.com/
+        - name: Hans Koster
+          url: https://www.urbaneconomics.nl/
+    - title: "Urban density and social interactions: sorting matters!"
+      coauthors:
+        - name: Hans Koster
+          url: https://www.urbaneconomics.nl/"
+        - name: Jos Van Ommeren
+          url: https://research.vu.nl/en/persons/jos-van-ommeren/
+        - name: Saeed Tajrishy
+          url: https://gsme.sharif.ir/~saeed.tajrishy/home.html
+    - title: "Bikes and strikes: the persistent effect of exposure"
+      coauthors:
+        - name: Sara Bagagli
+          url: https://sarabagagli.github.io/
+        - name: Felipe Carozzi
+          url: https://www.felipecarozzi.com/

@@ -1,0 +1,28 @@
+---
+layout: default
+---
+{%- comment -%} Lets links written as "/files/..." work whatever the site's address {%- endcomment -%}
+{%- assign local_href = 'href="' | append: site.baseurl | append: '/' -%}
+
+<section class="profile">
+  <img class="photo" src="{{ site.details.photo | relative_url }}" alt="Photo of {{ site.title }}" width="600" height="600">
+  <p class="details">
+    <span>{{ site.details.position }}</span>
+    <span>{{ site.details.institution }}</span>
+    <span><a href="mailto:{{ site.details.email }}">{{ site.details.email }}</a></span>
+  </p>
+</section>
+
+<section class="bio">
+  {{ content | replace: 'href="/', local_href }}
+</section>
+
+<section class="research" id="research">
+  {% include papers.html %}
+</section>
+
+<section class="teaching" id="teaching">
+  <h2 class="section-title">Teaching</h2>
+  {% capture teaching %}{% include teaching.md %}{% endcapture %}
+  {{ teaching | markdownify | replace: 'href="/', local_href }}
+</section>

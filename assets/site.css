@@ -1,0 +1,317 @@
+/* ───────────────────────────────────────────────────────────────
+   Fonts: Libertinus Serif, stored in assets/fonts (SIL Open Font License)
+   ─────────────────────────────────────────────────────────────── */
+@font-face {
+  font-family: "Libertinus Serif";
+  src: url("fonts/libertinus-serif-regular.woff2") format("woff2");
+  font-weight: 400; font-style: normal; font-display: swap;
+}
+@font-face {
+  font-family: "Libertinus Serif";
+  src: url("fonts/libertinus-serif-italic.woff2") format("woff2");
+  font-weight: 400; font-style: italic; font-display: swap;
+}
+@font-face {
+  font-family: "Libertinus Serif";
+  src: url("fonts/libertinus-serif-semibold.woff2") format("woff2");
+  font-weight: 600; font-style: normal; font-display: swap;
+}
+
+/* ───────────────────────────────────────────────────────────────
+   Colors. Light is the default; dark applies after the toggle.
+   ─────────────────────────────────────────────────────────────── */
+:root {
+  --background: #ffffff;
+  --text: #000000;
+  --text-soft: #4d4d4d;   /* coauthors, status */
+  --title: #339987;       /* name and big headings: the icon's green, a touch deeper */
+  --accent: #2a7e70;      /* links and small headings: deeper still, for readability */
+  --rule: #cfe3de;        /* thin lines */
+  color-scheme: light;
+}
+:root[data-theme="dark"] {
+  --background: #12362f;  /* dark version of the icon's green */
+  --text: #ffffff;
+  --text-soft: #c5dcd6;
+  --title: #9ce2d6;
+  --accent: #9ce2d6;
+  --rule: #2c5d54;
+  color-scheme: dark;
+}
+
+/* ───────────────────────────────────────────────────────────────
+   Base
+   ─────────────────────────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; }
+
+html {
+  font-size: 106.25%;               
+  -webkit-text-size-adjust: 100%;
+  scroll-behavior: smooth;
+}
+@media (min-width: 40em) {
+  html { font-size: 112.5%; }        
+}
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+}
+
+body {
+  margin: 0;
+  background: var(--background);
+  color: var(--text);
+  font-family: "Libertinus Serif", "Linux Libertine O", "Linux Libertine", Georgia, "Times New Roman", serif;
+  font-variant-numeric: lining-nums proportional-nums;
+  line-height: 1.6;
+  text-rendering: optimizeLegibility;
+}
+
+a {
+  color: inherit;
+  text-decoration-line: underline;
+  text-decoration-color: var(--accent);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.18em;
+}
+@media (hover: hover) {
+  a:hover { text-decoration-thickness: 2px; }
+}
+
+:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 3px;
+  border-radius: 2px;
+}
+
+.page {
+  max-width: 36rem;                 /* about 75 characters per line */
+  margin: 0 auto;
+  padding: 3.5rem 1.25rem 5rem;
+}
+
+/* ───────────────────────────────────────────────────────────────
+   Top: name, links, photo, details (all centered)
+   ─────────────────────────────────────────────────────────────── */
+.site-header { text-align: center; }
+
+.site-name {
+  margin: 0;
+  font-size: clamp(1.7rem, 10.5vw, 2.2rem);   /* shrinks slightly on small phones */
+  font-weight: 400;
+  line-height: 1.15;
+  letter-spacing: 0.005em;
+  text-wrap: balance;
+}
+.site-name { color: var(--title); }
+.site-name a { text-decoration: none; }
+
+.site-nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  list-style: none;
+  margin: 0.5rem 0 0;
+  padding: 0;
+  font-size: 1.05rem;
+}
+.site-nav a { color: var(--accent); }
+.site-nav li + li::before {
+  content: "\00B7";          /* middle dot */
+  margin: 0 0.5em;
+  color: var(--accent);
+  font-weight: 600;
+}
+
+.profile {
+  margin-top: 2.25rem;
+  text-align: center;
+}
+.photo {
+  display: block;
+  width: 9rem;
+  height: 9rem;
+  margin: 0 auto;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.details {
+  margin: 1.1rem 0 0;
+  line-height: 1.45;
+}
+.details span {
+  display: block;
+  text-wrap: balance;
+}
+
+/* ───────────────────────────────────────────────────────────────
+   Content (left aligned)
+   ─────────────────────────────────────────────────────────────── */
+.bio {
+  margin-top: 2.5rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--rule);
+}
+.bio p { margin: 0 0 1em; }
+.bio p:last-child { margin-bottom: 0; }
+
+/* Thin line above the bio, the papers and teaching */
+.research,
+.teaching {
+  margin-top: 2.5rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--rule);
+  scroll-margin-top: 1rem;
+}
+.research > .section-title:first-child,
+.teaching > .section-title:first-child { margin-top: 0; }
+
+/* Working papers, Work in progress, Teaching */
+.section-title {
+  margin: 2.4rem 0 1rem;
+  color: var(--title);
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2;
+}
+
+/* Papers, numbered 1, 2, 3… across all groups */
+.research { counter-reset: paper; }
+.paper {
+  position: relative;
+  margin: 0 0 1.6rem;
+  padding-left: 1.75em;
+  counter-increment: paper;
+}
+.paper:last-child { margin-bottom: 0; }
+.paper::before {
+  content: counter(paper) ".";
+  position: absolute;
+  left: 0;
+  top: 0;
+  color: var(--accent);
+  font-size: 1.05rem;
+  font-weight: 600;
+  line-height: 1.35;
+}
+
+.paper-title {
+  margin: 0;
+  font-size: 1.05rem;
+  font-weight: 600;
+  line-height: 1.35;
+  text-wrap: pretty;
+}
+.paper-coauthors,
+.paper-status {
+  margin: 0.15rem 0 0;
+  color: var(--text-soft);
+}
+.paper-status { font-style: italic; }
+
+.paper-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin: 0.5rem 0 0;
+}
+
+/* Buttons under each paper (abstract, pdf, slides…): all the same,
+   rounded border, filled with green on hover */
+.button {
+  display: inline-block;
+  padding: 0.08em 0.8em 0.14em;
+  border: 1px solid var(--accent);
+  border-radius: 999px;
+  background: transparent;
+  color: var(--accent);
+  font: inherit;
+  font-size: 0.85rem;
+  line-height: 1.5;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background-color 0.15s ease, color 0.15s ease;
+}
+@media (hover: hover) {
+  .button:hover {
+    background: var(--accent);
+    color: var(--background);
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .button { transition: none; }
+}
+
+/* The abstract button only appears when JavaScript runs,
+   and stays filled while its abstract is open */
+.abstract-toggle { display: none; }
+.js .abstract-toggle { display: inline-block; }
+.abstract-toggle[aria-expanded="true"] {
+  background: var(--accent);
+  color: var(--background);
+}
+
+.abstract {
+  margin-top: 0.7rem;
+  padding-left: 1rem;
+  border-left: 2px solid var(--rule);
+  font-size: 0.95rem;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+}
+@media (min-width: 40em) {
+  .abstract { text-align: justify; }   /* phones keep left alignment: justified
+                                          narrow columns open large gaps */
+}
+.abstract p { margin: 0; }
+.js .abstract { display: none; }
+.js .abstract.is-open { display: block; }
+
+/* Teaching */
+.teaching h3 {
+  margin: 1.5rem 0 0.4rem;
+  color: var(--accent);
+  font-size: 1.1rem;
+  font-weight: 400;
+  font-style: italic;
+}
+.teaching h2 + h3 { margin-top: 0; }
+.teaching ul {
+  margin: 0;
+  padding-left: 1.1rem;
+}
+.teaching li { margin: 0.15rem 0; }
+.teaching li::marker { color: var(--accent); }
+
+/* ───────────────────────────────────────────────────────────────
+   Dark mode button (top right)
+   ─────────────────────────────────────────────────────────────── */
+.theme-toggle {
+  display: none;                    /* only shown when JavaScript runs */
+  position: absolute;
+  top: 0.75rem;
+  right: 0.75rem;
+  width: 2.25rem;
+  height: 2.25rem;
+  padding: 0.45rem;
+  border: 0;
+  border-radius: 50%;
+  background: none;
+  color: var(--text);
+  cursor: pointer;
+}
+.js .theme-toggle { display: block; }
+@media (hover: hover) {
+  .theme-toggle:hover { background: var(--rule); }
+}
+.icon {
+  width: 100%;
+  height: 100%;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.6;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+.icon-sun { display: none; }
+:root[data-theme="dark"] .icon-moon { display: none; }
+:root[data-theme="dark"] .icon-sun { display: block; }

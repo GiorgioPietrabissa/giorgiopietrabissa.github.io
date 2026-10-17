@@ -1,14 +1,12 @@
-# main links links
-main:     
-    
-  - title: "Research"
-    url: /research/
+# Links shown under your name, in this order.
+# A section of the home page: "/#section-name"   A separate page: "/page-name/"
+# Add "new_tab: true" under a link to open it in a new tab.
+- title: cv
+  url: /files/CV.pdf
+  new_tab: true        # opens in a new tab, keeping the site open behind it
 
-  - title: "Teaching"
-    url: /teaching/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Contact"
-    url: /contact/
+- title: research
+  url: /#research
+
+- title: teaching
+  url: /#teaching
