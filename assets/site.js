@@ -32,3 +32,14 @@
     })(buttons[i]);
   }
 })();
+
+  // Links: open other websites and files (like PDFs) in a new tab.
+  // Links within this page (your name, "research", "teaching") and the email address stay as they are.
+  var links = document.querySelectorAll('a[href]');
+  for (var j = 0; j < links.length; j++) {
+    var link = links[j];
+    if (link.protocol === 'mailto:') { continue; }
+    if (link.origin === location.origin && link.pathname === location.pathname) { continue; }
+    link.setAttribute('target', '_blank');
+    link.setAttribute('rel', 'noopener');
+  }
