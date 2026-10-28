@@ -5,6 +5,7 @@
 #     coauthors:
 #       - name: Coauthor Name
 #         url: https://their-website.com     (optional)
+#     summary: One sentence on what the paper studies.
 #     status: R&R, Journal Name
 #     abstract: >-
 #       Abstract text, on as many lines as you like.
@@ -31,7 +32,7 @@
 - group: Work in progress
   papers:
     - title: "Waiting lists and prices: public housing allocation and private market spillovers"
-      summary: We study how waiting lists allocate public housing across locations, and how this spills over to private housing prices and affect welfare.
+      summary: We study how waiting lists allocate public housing across locations, and how this spills over to private housing prices and affects welfare.
       status: New draft coming soon!
       coauthors:
         - name: Milena Almagro
@@ -43,7 +44,7 @@
       status: New draft coming soon!
       coauthors:
         - name: Hans Koster
-          url: https://www.urbaneconomics.nl/"
+          url: https://www.urbaneconomics.nl/
         - name: Jos Van Ommeren
           url: https://research.vu.nl/en/persons/jos-van-ommeren/
         - name: Saeed Tajrishy

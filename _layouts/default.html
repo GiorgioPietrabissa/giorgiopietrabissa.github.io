@@ -4,11 +4,15 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <script>
-    // Runs before the page is drawn, so a saved dark-mode choice never flashes white.
+    // Runs before the page is drawn. Every visitor starts in dark mode, whatever
+    // their device settings; only someone who switched to light with the button
+    // keeps light on later visits.
     (function () {
       var root = document.documentElement;
       root.classList.add('js');
-      try { if (localStorage.getItem('theme') === 'dark') root.setAttribute('data-theme', 'dark'); } catch (e) {}
+      var theme = 'dark';
+      try { theme = localStorage.getItem('theme') || 'dark'; } catch (e) {}
+      if (theme === 'dark') root.setAttribute('data-theme', 'dark');
     })();
   </script>
   <link rel="preload" href="{{ '/assets/fonts/libertinus-serif-regular.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin>
