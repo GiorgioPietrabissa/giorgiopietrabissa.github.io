@@ -30,12 +30,12 @@
   color-scheme: light;
 }
 :root[data-theme="dark"] {
-  --background: #12362f;  /* dark version of the icon's green */
+  --background: #143a43;  /* petrol: deep blue-green */
   --text: #ffffff;
-  --text-soft: #c5dcd6;
-  --title: #9ce2d6;
-  --accent: #9ce2d6;
-  --rule: #2c5d54;
+  --text-soft: #cadee2;
+  --title: #9ff2c2;
+  --accent: #9ff2c2;      /* spring green, a lighter cousin of the light mode's green */
+  --rule: #285f6c;
   color-scheme: dark;
 }
 
