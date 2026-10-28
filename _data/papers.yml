@@ -17,7 +17,7 @@
 - group: Working papers
   papers:
     - title: School access and city structure
-      summary: I study how school admission policies affect where families live, their welfare, and the shape of the city.
+      summary: I study how school admission policies affect where families live, and thus the shape of the city and welfare.
       status: New version of my JMP!
       abstract: >-
         The location choices of households with children connect housing, labor, and school markets. 
@@ -31,7 +31,7 @@
 - group: Work in progress
   papers:
     - title: "Waiting lists and prices: public housing allocation and private market spillovers"
-      summary: We study how waiting lists allocate public housing across locations, and how this spills over to private housing prices and welfare.
+      summary: We study how waiting lists allocate public housing across locations, and how this spills over to private housing prices and affect welfare.
       status: New draft coming soon!
       coauthors:
         - name: Milena Almagro
