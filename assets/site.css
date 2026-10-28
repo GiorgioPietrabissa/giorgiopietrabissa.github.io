@@ -208,6 +208,10 @@ a {
   color: var(--text-soft);
 }
 .paper-status { font-style: italic; }
+.paper-summary {
+  margin: 0.3rem 0 0;
+  text-wrap: pretty;
+}
 
 .paper-links {
   display: flex;

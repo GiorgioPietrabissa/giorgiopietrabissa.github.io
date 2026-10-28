@@ -17,6 +17,7 @@
 - group: Working papers
   papers:
     - title: School access and city structure
+      summary: I study how school admission policies affect where families live, their welfare, and the shape of the city.
       status: New version of my JMP!
       abstract: >-
         The location choices of households with children connect housing, labor, and school markets. 
@@ -30,6 +31,7 @@
 - group: Work in progress
   papers:
     - title: "Waiting lists and prices: public housing allocation and private market spillovers"
+      summary: We study how waiting lists allocate public housing across locations, and how this spills over to private housing prices and welfare.
       status: New draft coming soon!
       coauthors:
         - name: Milena Almagro
@@ -37,6 +39,7 @@
         - name: Hans Koster
           url: https://www.urbaneconomics.nl/
     - title: "Urban density and social interactions: sorting matters!"
+      summary: We study how urban density shapes social interactions, and the role of who chooses to live in dense neighborhoods.
       status: New draft coming soon!
       coauthors:
         - name: Hans Koster
@@ -46,6 +49,7 @@
         - name: Saeed Tajrishy
           url: https://gsme.sharif.ir/~saeed.tajrishy/home.html
     - title: "Bikes and strikes: the persistent effect of exposure"
+      summary: We study whether brief exposure to cycling changes how people travel in the long run, and why.
       coauthors:
         - name: Sara Bagagli
           url: https://sarabagagli.github.io/

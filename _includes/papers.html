@@ -15,6 +15,10 @@
   </p>
   {%- endif %}
 
+  {%- if paper.summary %}
+  <p class="paper-summary">{{ paper.summary | smartify }}</p>
+  {%- endif %}
+
   {%- if paper.status %}
   <p class="paper-status">{{ paper.status | smartify }}</p>
   {%- endif %}
