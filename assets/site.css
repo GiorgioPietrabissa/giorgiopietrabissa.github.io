@@ -207,10 +207,21 @@ a {
   margin: 0.15rem 0 0;
   color: var(--text-soft);
 }
-.paper-status { font-style: italic; }
 .paper-summary {
   margin: 0.3rem 0 0;
+  color: var(--text-soft);
+  font-size: 0.95rem;
   text-wrap: pretty;
+}
+.paper-status {
+  margin-top: 0.25rem;
+  font-size: 0.9rem;
+  font-style: italic;
+}
+.paper-status::before {
+  content: "\2192\00a0";   /* green arrow and a space before the status */
+  color: var(--accent);
+  font-style: normal;
 }
 
 .paper-links {
