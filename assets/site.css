@@ -18,7 +18,7 @@
 }
 
 /* ───────────────────────────────────────────────────────────────
-   Colors. Light is the default; dark applies after the toggle.
+   Colors. Dark is the default; light mode applies after the toggle.
    ─────────────────────────────────────────────────────────────── */
 :root {
   --background: #ffffff;
