@@ -32,7 +32,7 @@
 - group: Work in progress
   papers:
     - title: "Waiting lists and prices: public housing allocation and private market spillovers"
-      summary: We study how public housing gets allocated across locations, and how it affect housing prices and welfare.
+      summary: We study how public housing gets allocated across locations, and how it affects house prices and welfare.
       status: New draft coming soon!
       coauthors:
         - name: Milena Almagro
@@ -40,7 +40,7 @@
         - name: Hans Koster
           url: https://www.urbaneconomics.nl/
     - title: "Urban density and social interactions: sorting matters!"
-      summary: We study how urban density shapes social interactions, and the role of those moving to denser neighborhoods.
+      summary: We study how local density shapes social interactions, and the role of households moving to denser areas.
       status: New draft coming soon!
       coauthors:
         - name: Hans Koster
