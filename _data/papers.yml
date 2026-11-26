@@ -21,11 +21,7 @@
       summary: I study how local school opportunities determine where families live and work, and shape the rest of the city.
       status: New version of my JMP!
       abstract: >-
-        The location choices of households with children connect housing, labor, and school markets. 
-        I study how school catchment areas affect location choices, welfare, and city structure. 
-        I estimate a quantitative spatial model of the three markets for Madrid, and use a decomposition of market access to show that the policy binds most in the center, where schools are densest. 
-        Compared with free choice, catchment areas shorten school trips by about 40% but lower parents' welfare by about 7.5%, via lost schooling options. 
-        Parents suburbanize, and the city becomes more segregated and marginally more productive, with gains falling short of parents' losses.
+        The location choices of households with children connect schools to housing and labor markets. I study how school access shapes the internal structure of cities, with a quantitative urban model estimated for Madrid, where parents can apply to any publicly funded school. Decomposing market access reveals that schools, like jobs, draw parents toward the center, but because they are densest there rather than better. To trace the effects of school access, I switch the school allocation rule from free choice to catchment areas, which cut the density advantage of the center. Parents are pushed outward, commute longer, and lose about $7.5\%$ in welfare despite shorter school trips. Citywide, segregation rises, and the reallocation of floorspace use yields slim productivity gains, mostly enjoyed by households without children.
       links:
         - label: pdf
           url: /files/school_access.pdf
